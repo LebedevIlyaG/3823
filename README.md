@@ -18,6 +18,13 @@
 
 Ссылка для письма кода во время практики: https://repl.it/join/oltpbnid-lebedevilyag
 
+Подключиться к конференции Zoom
+https://us04web.zoom.us/j/78823321031?pwd=Qo8sldbbnKisxUl9ajiRxk0yn1qHA9.1
+
+Идентификатор конференции: 788 2332 1031
+Код доступа: xNPV17
+
+
 |№|Название|Крайний срок|
 
 
