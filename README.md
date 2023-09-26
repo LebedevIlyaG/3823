@@ -14,7 +14,7 @@
 # Практические занятия
 
 Домашнее задание:
-
+https://docs.google.com/spreadsheets/d/1Y3Op04CoWbemWqueoZcZeMZxcTnu1BSXkdA1q69Mnmg/edit?usp=sharing
 
 Ссылка для письма кода во время практики: https://repl.it/join/oltpbnid-lebedevilyag
 
