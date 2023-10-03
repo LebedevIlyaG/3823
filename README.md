@@ -25,6 +25,8 @@ https://us04web.zoom.us/j/78823321031?pwd=Qo8sldbbnKisxUl9ajiRxk0yn1qHA9.1
 Код доступа: xNPV17
 
 
+*ТЕСТ по программированию*: https://forms.gle/7teyYJrm4P3c8rbG9
+
 |№|Название|Крайний срок|
 
 
